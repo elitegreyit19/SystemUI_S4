@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.phone.SettingsPanelView android:id="@id/settings_panel" android:background="@drawable/notification_background_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/notification_panel_margin_left"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.systemui.statusbar.phone.QuickSettingsScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/close_handle_underlap" android:overScrollMode="ifContentScrolls">
+        <com.android.systemui.statusbar.policy.quicksetting.QuickSettingPanel android:id="@id/quick_settings_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true" android:columnCount="@integer/quick_settings_num_columns" />
+    </com.android.systemui.statusbar.phone.QuickSettingsScrollView>
+    <View android:id="@id/handle" android:background="@drawable/status_bar_close" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="@dimen/close_handle_height" />
+    <include android:layout_gravity="bottom" android:background="@drawable/status_bar_bg_tile" android:layout_width="fill_parent" android:layout_height="@dimen/carrier_label_height" android:layout_marginBottom="@dimen/close_handle_height" layout="@layout/carrier_label_layout" />
+</com.android.systemui.statusbar.phone.SettingsPanelView>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screenshot_failed_text">Unable to save screenshot. USB storage may be in use</string>
+    <string name="data_usage_disable_mobile_vzw_1">Unless you use Wi-Fi, you will no longer be able to use the Internet, Email or other apps that require data connection.</string>
+    <string name="mobile_data_enable_toast_text">Unable to connect to mobile networks while Flight mode is enabled. Disable Flight mode and try again</string>
+    <string name="blocking_mode_enable">When this mode is enabled, notifications for selected features will be disabled. You will only receive notifications of incoming calls from people on your allowed list</string>
+    <string name="full_battery_text">"Battery fully charged.
+Unplug charger"</string>
+    <string name="low_battery_text">Connect to a plug socket to charge device and exit unused applications in Task manager. Continued usage while charging may prevent efficient charging</string>
+    <string name="low_battery_text_charged_via_ta">Exit unused applications in Task manager. Continued usage while charging may prevent efficient charging</string>
+    <string name="critical_low_battery_camera_warning_text">Unable to open Camera. Battery power is %d%% or less</string>
+    <string name="status_bar_recent_remove_all_button">Remove all</string>
+    <string name="screen_capture_fail_for_storage_capacity">Device storage full. Delete some items</string>
+    <string name="quickpanel_air_gesture_warning">To enable air gesture, enable at least one relevant function</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_panel_solid_background">#ff000000</color>
+    <color name="status_bar_recents_app_label_color">#ffffffff</color>
+    <color name="notification_list_shadow_top">#80000000</color>
+    <color name="notification_panel_scrim_color">#b0000000</color>
+    <color name="notification_category_color">#ffadc1d6</color>
+    <color name="status_bar_clear_btn_text">#ffffffff</color>
+    <color name="notification_header_clock_color">#ffffffff</color>
+    <color name="notification_header_date_color">#ffcbcbcb</color>
+    <color name="quick_setting_btn_text_color">#ff9eb2c3</color>
+    <color name="quick_setting_btn_divider_color">#ff000000</color>
+    <item type="color" name="toggle_slider_background_color">@drawable/notification_background_color</item>
+    <color name="toggle_slider_text_color">#ffd7d7d7</color>
+</resources>
