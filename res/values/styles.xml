@@ -143,7 +143,15 @@
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
     </style>
-<style name="SystemBarNotificationText">
+    <item type="style" name="APKTOOL_DUMMY_001e">false</item>
+    <item type="style" name="APKTOOL_DUMMY_001f">false</item>
+    <item type="style" name="APKTOOL_DUMMY_0020">false</item>
+    <item type="style" name="APKTOOL_DUMMY_0021">false</item>
+    <item type="style" name="APKTOOL_DUMMY_0022">false</item>
+    <item type="style" name="APKTOOL_DUMMY_0023">false</item>
+    <item type="style" name="APKTOOL_DUMMY_0024">false</item>
+    <item type="style" name="APKTOOL_DUMMY_0025">false</item>
+    <style name="SystemBarNotificationText">
         <item name="android:textSize">16.0sp</item>
         <item name="android:textColor">#ff999999</item>
     </style>
@@ -167,18 +175,10 @@
         <item name="android:layout_height">fill_parent</item>
         <item name="android:scaleType">center</item>
     </style>
-     <style name="SystemBarPanelSettingsPanelSeparator">
+    <style name="SystemBarPanelSettingsPanelSeparator">
         <item name="android:background">@*android:drawable/divider_horizontal_dark</item>
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">1.0dip</item>
         <item name="android:layout_marginRight">0.0dip</item>
     </style>
-    <item type="style" name="APKTOOL_DUMMY_001e">false</item>
-    <item type="style" name="APKTOOL_DUMMY_001f">false</item>
-    <item type="style" name="APKTOOL_DUMMY_0020">false</item>
-    <item type="style" name="APKTOOL_DUMMY_0021">false</item>
-    <item type="style" name="APKTOOL_DUMMY_0022">false</item>
-    <item type="style" name="APKTOOL_DUMMY_0023">false</item>
-    <item type="style" name="APKTOOL_DUMMY_0024">false</item>
-    <item type="style" name="APKTOOL_DUMMY_0025">false</item>
 </resources>

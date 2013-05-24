@@ -14,7 +14,7 @@
     <integer name="quick_settings_brightness_dialog_short_timeout">2000</integer>
     <integer name="quick_settings_brightness_dialog_long_timeout">4000</integer>
     <integer name="blinds_pop_duration_ms">10</integer>
+    <item type="integer" name="APKTOOL_DUMMY_000e">false</item>
     <integer name="notification_panel_layout_gravity">0x37</integer>
     <integer name="settings_panel_layout_gravity">0x37</integer>
-    <item type="integer" name="APKTOOL_DUMMY_000e">false</item>
 </resources>
