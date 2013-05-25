@@ -275,4 +275,6 @@
     <item type="id" name="notification_inspect_item">false</item>
     <item type="id" name="recent_remove_item">false</item>
     <item type="id" name="recent_inspect_item">false</item>
+    <item type="id" name="center_clock">false</item>
+    <item type="id" name="center_clock_layout">false</item>
 </resources>
